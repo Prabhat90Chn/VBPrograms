@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\ClassObject\bin\Debug\netcoreapp3.1\ClassObject.exe
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\ClassObject\bin\Debug\netcoreapp3.1\ClassObject.deps.json
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\ClassObject\bin\Debug\netcoreapp3.1\ClassObject.runtimeconfig.json
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\ClassObject\bin\Debug\netcoreapp3.1\ClassObject.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\ClassObject\bin\Debug\netcoreapp3.1\ClassObject.dll
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\ClassObject\bin\Debug\netcoreapp3.1\ClassObject.pdb
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\ClassObject\obj\Debug\netcoreapp3.1\ClassObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\ClassObject\obj\Debug\netcoreapp3.1\ClassObject.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\ClassObject\obj\Debug\netcoreapp3.1\ClassObject.AssemblyInfo.cs
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\ClassObject\obj\Debug\netcoreapp3.1\ClassObject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\ClassObject\obj\Debug\netcoreapp3.1\ClassObject.dll
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\ClassObject\obj\Debug\netcoreapp3.1\ClassObject.pdb
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\ClassObject\obj\Debug\netcoreapp3.1\ClassObject.genruntimeconfig.cache

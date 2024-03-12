@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\MYFirstHelloApp\bin\Debug\netcoreapp3.1\MYFirstHelloApp.exe
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\MYFirstHelloApp\bin\Debug\netcoreapp3.1\MYFirstHelloApp.deps.json
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\MYFirstHelloApp\bin\Debug\netcoreapp3.1\MYFirstHelloApp.runtimeconfig.json
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\MYFirstHelloApp\bin\Debug\netcoreapp3.1\MYFirstHelloApp.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\MYFirstHelloApp\bin\Debug\netcoreapp3.1\MYFirstHelloApp.dll
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\MYFirstHelloApp\bin\Debug\netcoreapp3.1\MYFirstHelloApp.pdb
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\MYFirstHelloApp\obj\Debug\netcoreapp3.1\MYFirstHelloApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\MYFirstHelloApp\obj\Debug\netcoreapp3.1\MYFirstHelloApp.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\MYFirstHelloApp\obj\Debug\netcoreapp3.1\MYFirstHelloApp.AssemblyInfo.cs
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\MYFirstHelloApp\obj\Debug\netcoreapp3.1\MYFirstHelloApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\MYFirstHelloApp\obj\Debug\netcoreapp3.1\MYFirstHelloApp.dll
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\MYFirstHelloApp\obj\Debug\netcoreapp3.1\MYFirstHelloApp.pdb
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\MYFirstHelloApp\obj\Debug\netcoreapp3.1\MYFirstHelloApp.genruntimeconfig.cache

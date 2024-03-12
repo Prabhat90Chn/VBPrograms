@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ControlStatement/1.0.0": {
+        "runtime": {
+          "ControlStatement.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ControlStatement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\ControlStatement\bin\Debug\netcoreapp3.1\ControlStatement.exe
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\ControlStatement\bin\Debug\netcoreapp3.1\ControlStatement.deps.json
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\ControlStatement\bin\Debug\netcoreapp3.1\ControlStatement.runtimeconfig.json
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\ControlStatement\bin\Debug\netcoreapp3.1\ControlStatement.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\ControlStatement\bin\Debug\netcoreapp3.1\ControlStatement.dll
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\ControlStatement\bin\Debug\netcoreapp3.1\ControlStatement.pdb
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\ControlStatement\obj\Debug\netcoreapp3.1\ControlStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\ControlStatement\obj\Debug\netcoreapp3.1\ControlStatement.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\ControlStatement\obj\Debug\netcoreapp3.1\ControlStatement.AssemblyInfo.cs
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\ControlStatement\obj\Debug\netcoreapp3.1\ControlStatement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\ControlStatement\obj\Debug\netcoreapp3.1\ControlStatement.dll
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\ControlStatement\obj\Debug\netcoreapp3.1\ControlStatement.pdb
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\ControlStatement\obj\Debug\netcoreapp3.1\ControlStatement.genruntimeconfig.cache
