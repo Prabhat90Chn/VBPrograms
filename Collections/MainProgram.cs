@@ -15,8 +15,10 @@ namespace Collections
             Collections.LinkedListClass.LinkedListMain();
             Collections.DictionaryClass.DictionaryMain();
             Collections.SortedDictionaryClass.sDictionaryMain();
-            Collections.HashTableClass.HashtableMain();*/
-            Collections.StackClass.StackMain();
+            Collections.HashTableClass.HashtableMain();
+            Collections.StackClass.StackMain();*/
+            Collections.SortedListClass.MainSorted();
+
         }
     }
 }

@@ -45,10 +45,10 @@ namespace Collections
                 Console.WriteLine("Value Not Found..");
             }
 
-            String v1 = sdic[001];
+            String v1 = sdic[002];
             // String v2 = sdic[006]; thos will thrown 'KEYNOTFOUND' exception
 
-            Console.WriteLine($"001 value : {v1}");   
+            Console.WriteLine($"002 value : {v1}");   
             //Console.WriteLine($"006 value: {v2}"); 
 
             // Access elements by key using TryGetValue() method

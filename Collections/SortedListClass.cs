@@ -47,14 +47,19 @@ namespace Collections
                 Console.WriteLine(pair.Key+" "+ pair.Value);
             }
             // Remove Element
-            sList.Remove(1);
-            sList.RemoveAt(0);
+            //sList.Remove(1);
+            //sList.RemoveAt(0);
             Console.WriteLine("Sorted list after removal");
+            Console.WriteLine("****************");
+            int inxed= sList.IndexOfValue("four");
+            Console.WriteLine(inxed);
+            Console.WriteLine("Inxed value = " + sList[inxed]);
+
             foreach (KeyValuePair<int, String> pair in sList)
             {
                 Console.WriteLine(pair.Key + " " + pair.Value);
+                
             }
-
 
         }
     }
