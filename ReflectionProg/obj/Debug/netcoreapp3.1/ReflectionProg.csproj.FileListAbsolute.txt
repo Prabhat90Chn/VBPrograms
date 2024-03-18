@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\ReflectionProg\bin\Debug\netcoreapp3.1\ReflectionProg.exe
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\ReflectionProg\bin\Debug\netcoreapp3.1\ReflectionProg.deps.json
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\ReflectionProg\bin\Debug\netcoreapp3.1\ReflectionProg.runtimeconfig.json
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\ReflectionProg\bin\Debug\netcoreapp3.1\ReflectionProg.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\ReflectionProg\bin\Debug\netcoreapp3.1\ReflectionProg.dll
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\ReflectionProg\bin\Debug\netcoreapp3.1\ReflectionProg.pdb
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\ReflectionProg\obj\Debug\netcoreapp3.1\ReflectionProg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\ReflectionProg\obj\Debug\netcoreapp3.1\ReflectionProg.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\ReflectionProg\obj\Debug\netcoreapp3.1\ReflectionProg.AssemblyInfo.cs
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\ReflectionProg\obj\Debug\netcoreapp3.1\ReflectionProg.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\ReflectionProg\obj\Debug\netcoreapp3.1\ReflectionProg.sourcelink.json
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\ReflectionProg\obj\Debug\netcoreapp3.1\ReflectionProg.dll
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\ReflectionProg\obj\Debug\netcoreapp3.1\ReflectionProg.pdb
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\ReflectionProg\obj\Debug\netcoreapp3.1\ReflectionProg.genruntimeconfig.cache

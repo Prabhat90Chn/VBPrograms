@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\DataAnnotations\bin\Debug\netcoreapp3.1\DataAnnotations.exe
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\DataAnnotations\bin\Debug\netcoreapp3.1\DataAnnotations.deps.json
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\DataAnnotations\bin\Debug\netcoreapp3.1\DataAnnotations.runtimeconfig.json
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\DataAnnotations\bin\Debug\netcoreapp3.1\DataAnnotations.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\DataAnnotations\bin\Debug\netcoreapp3.1\DataAnnotations.dll
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\DataAnnotations\bin\Debug\netcoreapp3.1\DataAnnotations.pdb
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\DataAnnotations\obj\Debug\netcoreapp3.1\DataAnnotations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\DataAnnotations\obj\Debug\netcoreapp3.1\DataAnnotations.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\DataAnnotations\obj\Debug\netcoreapp3.1\DataAnnotations.AssemblyInfo.cs
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\DataAnnotations\obj\Debug\netcoreapp3.1\DataAnnotations.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\DataAnnotations\obj\Debug\netcoreapp3.1\DataAnnotations.sourcelink.json
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\DataAnnotations\obj\Debug\netcoreapp3.1\DataAnnotations.dll
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\DataAnnotations\obj\Debug\netcoreapp3.1\DataAnnotations.pdb
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\DataAnnotations\obj\Debug\netcoreapp3.1\DataAnnotations.genruntimeconfig.cache

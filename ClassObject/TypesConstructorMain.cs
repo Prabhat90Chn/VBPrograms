@@ -20,8 +20,9 @@ namespace ClassObject
             Emp emp = new Emp(5,"nmn");
             StructClass obj = new StructClass();
             obj.Display();
-            ClassObject.EnumClass.EnumMain();*/
-            ClassObject.PropertiesClass.PropertiesMain();
+            ClassObject.EnumClass.EnumMain();
+            ClassObject.PropertiesClass.PropertiesMain();*/
+            StaticConstructor obj = new StaticConstructor(1);
 
 
 
