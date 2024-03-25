@@ -6,15 +6,16 @@ namespace Inheritance
 {
     internal class SecondClass:BaseClass
     {
-        public String name="abc";
+        public int secondId = 2;
+        public string secondStr = "second";
 
         public SecondClass()
         {
-            Console.WriteLine("Second class Constructor");
+            Console.WriteLine("Second class Constructor running");
         }
         public void SecondMethod()
         {
-            Console.WriteLine("Second class Method");
+            Console.WriteLine("Second class Method called");
         }
     }
 }

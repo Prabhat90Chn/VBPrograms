@@ -11,3 +11,4 @@ C:\Users\Admin\Desktop\VBProjects\BasicProgram\Inheritance\obj\Debug\netcoreapp3
 C:\Users\Admin\Desktop\VBProjects\BasicProgram\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.dll
 C:\Users\Admin\Desktop\VBProjects\BasicProgram\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.pdb
 C:\Users\Admin\Desktop\VBProjects\BasicProgram\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.genruntimeconfig.cache
+C:\Users\Admin\Desktop\VBProjects\BasicProgram\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.sourcelink.json

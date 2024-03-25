@@ -6,8 +6,8 @@ namespace Inheritance
     {
         static void Main(string[] args)
         {
-            /*Inheritance.MultiLevel.Multimain();*/
-            Inheritance.Employee.AddressMain();
+            Inheritance.MultiLevel.Multimain();
+            /*Inheritance.Employee.AddressMain();*/
         }
     }
 }

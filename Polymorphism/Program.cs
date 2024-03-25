@@ -7,11 +7,13 @@ namespace Polymorphism
         static void Main(string[] args)
         {
             /*Polymorphism.MethodOverloading.MOverloadingMain();
-            Polymorphism.DerivedOverriding.Display();
+            Polymorphism.DerivedClass.Display();
             SecondBase obj = new SecondBase();
-            obj.BaseMethod();*/
+            obj.BaseMethod();
             Square obj = new Square(3);
-            obj.area();
+            obj.area();*/
+
+            Polymorphism.DerivedClass.Display();
         }
     }
 }
