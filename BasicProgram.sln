@@ -17,11 +17,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections", "Collections\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exceptions", "Exceptions\Exceptions.csproj", "{484A8665-2B29-4513-978F-550C8A1FEDF8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaExpressions", "LambdaExpressions\LambdaExpressions.csproj", "{F260ED6B-E56C-429A-9372-792F5D006335}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LambdaExpressions", "LambdaExpressions\LambdaExpressions.csproj", "{F260ED6B-E56C-429A-9372-792F5D006335}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectionProg", "ReflectionProg\ReflectionProg.csproj", "{39879671-3571-4039-B93B-0A5BE2BC6242}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReflectionProg", "ReflectionProg\ReflectionProg.csproj", "{39879671-3571-4039-B93B-0A5BE2BC6242}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAnnotations", "DataAnnotations\DataAnnotations.csproj", "{83777595-5F9E-427B-B638-86B146B63A7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAnnotations", "DataAnnotations\DataAnnotations.csproj", "{83777595-5F9E-427B-B638-86B146B63A7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADOQueries", "ADOQueries\ADOQueries.csproj", "{4EB630E8-0D79-4B43-9488-6C208326DB80}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{83777595-5F9E-427B-B638-86B146B63A7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83777595-5F9E-427B-B638-86B146B63A7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83777595-5F9E-427B-B638-86B146B63A7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EB630E8-0D79-4B43-9488-6C208326DB80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EB630E8-0D79-4B43-9488-6C208326DB80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EB630E8-0D79-4B43-9488-6C208326DB80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EB630E8-0D79-4B43-9488-6C208326DB80}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

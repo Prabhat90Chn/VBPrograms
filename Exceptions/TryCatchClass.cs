@@ -21,9 +21,16 @@ namespace Exceptions
                 int z = x / y;
                 Console.WriteLine("Divided value is = " + z);
             }
-            catch(Exception e) {
-                Console.WriteLine("Exception is = "+e.Message);
+            catch (ArgumentNullException e)
+            {
+                Console.WriteLine("Exception is = " + e.Message);
             }
+            catch(NullReferenceException e) {
+            }
+            /*catch(Exception e) 
+            {
+            }*/
+
             finally
             {
                 Console.WriteLine("Finally block run");
