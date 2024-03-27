@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ADOQueries")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+914d7dcb7fff4d5cca45c3562eb28fa3d3b0fc2c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b13e2ba8c8531eed11e4c98d692302c5ee28f71")]
 [assembly: System.Reflection.AssemblyProductAttribute("ADOQueries")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ADOQueries")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
