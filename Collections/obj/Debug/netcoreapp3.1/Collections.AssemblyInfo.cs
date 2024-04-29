@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Collections")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+914d7dcb7fff4d5cca45c3562eb28fa3d3b0fc2c")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b62ba3852ad72c597b57ea2ddeee26bd202a09e9")]
+>>>>>>> 288a2fe (VBProg[Prabhat]: C# basic programs)
 [assembly: System.Reflection.AssemblyProductAttribute("Collections")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Collections")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

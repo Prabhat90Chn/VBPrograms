@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "vJcUqd8WFNH+W+/u3wOCl1QJwC0arGX/uf/YCh86GNHt8RHbAm4Mofw5ZATqN4vZ9sXk6ugT5XmKvWHBbUGOSw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Admin\\Desktop\\VBProjects\\BasicProgram\\Polymorphism\\Polymorphism.csproj",
+=======
+  "dgSpecHash": "+fapx7DqYSK3r2woaZsFoTH9VLdP1PkoNsIaRrizYG3K4iYrcC17EvupvZ/ESmUVEcDlbPb4Vnzmda+gz08rXA==",
+  "success": true,
+  "projectFilePath": "D:\\VBProjects\\BasicProgram\\Polymorphism\\Polymorphism.csproj",
+>>>>>>> 288a2fe (VBProg[Prabhat]: C# basic programs)
   "expectedPackageFiles": [],
   "logs": []
 }

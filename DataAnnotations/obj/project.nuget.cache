@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "9MDUxixH1vklZgo9giMQ87RmSzsZ6m4ZgN6Vtker5+oYa4PsdEhdOhq2UY5z1lVN6TStReBJgQzIi78W8v+YWg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Admin\\Desktop\\VBProjects\\BasicProgram\\DataAnnotations\\DataAnnotations.csproj",
+=======
+  "dgSpecHash": "DsrkxwRK3H+Sb5PKmU+TBedfPjPxz0s5utRyjNDnL6rhbRc/oMOe+3E8Mn5HyFghUmA/vUkZKO4i4oJSTYb+0g==",
+  "success": true,
+  "projectFilePath": "D:\\VBProjects\\BasicProgram\\DataAnnotations\\DataAnnotations.csproj",
+>>>>>>> 288a2fe (VBProg[Prabhat]: C# basic programs)
   "expectedPackageFiles": [],
   "logs": []
 }

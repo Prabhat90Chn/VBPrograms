@@ -1,5 +1,9 @@
 is_global = true
 build_property.RootNamespace = ReflectionProg
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\Admin\Desktop\VBProjects\BasicProgram\ReflectionProg\
+=======
+build_property.ProjectDir = D:\VBProjects\BasicProgram\ReflectionProg\
+>>>>>>> 288a2fe (VBProg[Prabhat]: C# basic programs)
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

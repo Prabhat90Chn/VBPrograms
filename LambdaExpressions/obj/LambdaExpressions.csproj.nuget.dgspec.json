@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\Admin\\Desktop\\VBProjects\\BasicProgram\\LambdaExpressions\\LambdaExpressions.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\Admin\\Desktop\\VBProjects\\BasicProgram\\LambdaExpressions\\LambdaExpressions.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Admin\\Desktop\\VBProjects\\BasicProgram\\LambdaExpressions\\obj\\",
+=======
+    "D:\\VBProjects\\BasicProgram\\LambdaExpressions\\LambdaExpressions.csproj": {}
+  },
+  "projects": {
+    "D:\\VBProjects\\BasicProgram\\LambdaExpressions\\LambdaExpressions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\VBProjects\\BasicProgram\\LambdaExpressions\\LambdaExpressions.csproj",
+        "projectName": "LambdaExpressions",
+        "projectPath": "D:\\VBProjects\\BasicProgram\\LambdaExpressions\\LambdaExpressions.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\VBProjects\\BasicProgram\\LambdaExpressions\\obj\\",
+>>>>>>> 288a2fe (VBProg[Prabhat]: C# basic programs)
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -64,7 +78,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+>>>>>>> 288a2fe (VBProg[Prabhat]: C# basic programs)
         }
       }
     }

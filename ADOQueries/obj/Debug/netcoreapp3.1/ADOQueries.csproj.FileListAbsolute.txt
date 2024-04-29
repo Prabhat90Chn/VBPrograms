@@ -20,3 +20,28 @@ C:\Users\Admin\Desktop\VBProjects\BasicProgram\ADOQueries\obj\Debug\netcoreapp3.
 C:\Users\Admin\Desktop\VBProjects\BasicProgram\ADOQueries\obj\Debug\netcoreapp3.1\ADOQueries.dll
 C:\Users\Admin\Desktop\VBProjects\BasicProgram\ADOQueries\obj\Debug\netcoreapp3.1\ADOQueries.pdb
 C:\Users\Admin\Desktop\VBProjects\BasicProgram\ADOQueries\obj\Debug\netcoreapp3.1\ADOQueries.genruntimeconfig.cache
+<<<<<<< HEAD
+=======
+D:\VBProjects\BasicProgram\ADOQueries\bin\Debug\netcoreapp3.1\ADOQueries.exe
+D:\VBProjects\BasicProgram\ADOQueries\bin\Debug\netcoreapp3.1\ADOQueries.deps.json
+D:\VBProjects\BasicProgram\ADOQueries\bin\Debug\netcoreapp3.1\ADOQueries.runtimeconfig.json
+D:\VBProjects\BasicProgram\ADOQueries\bin\Debug\netcoreapp3.1\ADOQueries.runtimeconfig.dev.json
+D:\VBProjects\BasicProgram\ADOQueries\bin\Debug\netcoreapp3.1\ADOQueries.dll
+D:\VBProjects\BasicProgram\ADOQueries\bin\Debug\netcoreapp3.1\ADOQueries.pdb
+D:\VBProjects\BasicProgram\ADOQueries\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\VBProjects\BasicProgram\ADOQueries\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\VBProjects\BasicProgram\ADOQueries\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\VBProjects\BasicProgram\ADOQueries\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\VBProjects\BasicProgram\ADOQueries\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\VBProjects\BasicProgram\ADOQueries\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\VBProjects\BasicProgram\ADOQueries\obj\Debug\netcoreapp3.1\ADOQueries.csproj.AssemblyReference.cache
+D:\VBProjects\BasicProgram\ADOQueries\obj\Debug\netcoreapp3.1\ADOQueries.GeneratedMSBuildEditorConfig.editorconfig
+D:\VBProjects\BasicProgram\ADOQueries\obj\Debug\netcoreapp3.1\ADOQueries.AssemblyInfoInputs.cache
+D:\VBProjects\BasicProgram\ADOQueries\obj\Debug\netcoreapp3.1\ADOQueries.AssemblyInfo.cs
+D:\VBProjects\BasicProgram\ADOQueries\obj\Debug\netcoreapp3.1\ADOQueries.csproj.CoreCompileInputs.cache
+D:\VBProjects\BasicProgram\ADOQueries\obj\Debug\netcoreapp3.1\ADOQueries.sourcelink.json
+D:\VBProjects\BasicProgram\ADOQueries\obj\Debug\netcoreapp3.1\ADOQueries.csproj.Up2Date
+D:\VBProjects\BasicProgram\ADOQueries\obj\Debug\netcoreapp3.1\ADOQueries.dll
+D:\VBProjects\BasicProgram\ADOQueries\obj\Debug\netcoreapp3.1\ADOQueries.pdb
+D:\VBProjects\BasicProgram\ADOQueries\obj\Debug\netcoreapp3.1\ADOQueries.genruntimeconfig.cache
+>>>>>>> 288a2fe (VBProg[Prabhat]: C# basic programs)

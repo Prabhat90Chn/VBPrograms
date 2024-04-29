@@ -23,7 +23,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReflectionProg", "Reflectio
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAnnotations", "DataAnnotations\DataAnnotations.csproj", "{83777595-5F9E-427B-B638-86B146B63A7C}"
 EndProject
+<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADOQueries", "ADOQueries\ADOQueries.csproj", "{4EB630E8-0D79-4B43-9488-6C208326DB80}"
+=======
+<<<<<<< HEAD
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ADOQueries", "ADOQueries\ADOQueries.csproj", "{4EB630E8-0D79-4B43-9488-6C208326DB80}"
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADOQueries", "ADOQueries\ADOQueries.csproj", "{4EB630E8-0D79-4B43-9488-6C208326DB80}"
+>>>>>>> feature
+>>>>>>> 288a2fe (VBProg[Prabhat]: C# basic programs)
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

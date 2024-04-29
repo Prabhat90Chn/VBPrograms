@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "Be0xanKsEM0b8JHFvsgyDfRDZ6v70zRuLNBAUVk/ujkKiG2P5P8C9mD/0VggTNjue9nGpqDW4XJCYcSJgrxCaw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Admin\\Desktop\\VBProjects\\BasicProgram\\Inheritance\\Inheritance.csproj",
+=======
+  "dgSpecHash": "/E0cB0uJ8bIJnpncAB7g3DEbE3dS3YuwF1xiObN0I5d7ZzDiRLGj7ZepVZf2G2o0a6oCd/Dgm11Xpa0zib5OYg==",
+  "success": true,
+  "projectFilePath": "D:\\VBProjects\\BasicProgram\\Inheritance\\Inheritance.csproj",
+>>>>>>> 288a2fe (VBProg[Prabhat]: C# basic programs)
   "expectedPackageFiles": [],
   "logs": []
 }

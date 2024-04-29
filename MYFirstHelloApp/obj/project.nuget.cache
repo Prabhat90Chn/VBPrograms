@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "Cwpz8B8IGZz404K+kWGQotwlQTzdqUhL7uHehgo+ljTqVfMwgScoe2NZvVxKkUpEkK5nklEs/XlnDkKGENvTWA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Admin\\Desktop\\VBProjects\\BasicProgram\\MYFirstHelloApp\\MYFirstHelloApp.csproj",
+=======
+  "dgSpecHash": "8v8JPGN75YwUuGEkZNwPN7iw1nYBvPXwSwDWGyTna25G1gZLuxhvjpOxshD2/0La7jtWe4JVvThM57LYeQupuA==",
+  "success": true,
+  "projectFilePath": "D:\\VBProjects\\BasicProgram\\MYFirstHelloApp\\MYFirstHelloApp.csproj",
+>>>>>>> 288a2fe (VBProg[Prabhat]: C# basic programs)
   "expectedPackageFiles": [],
   "logs": []
 }

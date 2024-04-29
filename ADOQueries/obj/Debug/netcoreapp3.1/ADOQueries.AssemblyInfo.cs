@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ADOQueries")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b13e2ba8c8531eed11e4c98d692302c5ee28f71")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b62ba3852ad72c597b57ea2ddeee26bd202a09e9")]
+>>>>>>> 288a2fe (VBProg[Prabhat]: C# basic programs)
 [assembly: System.Reflection.AssemblyProductAttribute("ADOQueries")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ADOQueries")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

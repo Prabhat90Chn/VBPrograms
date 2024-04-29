@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "avbDFKWSOqkqxuILUfT2UTbGS8fFlHYOzAShvUqPU9dd0ucIxzhspf1R/N7nBCV9gHYV5JeswZKBfbTqEvTHJA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Admin\\Desktop\\VBProjects\\BasicProgram\\ReflectionProg\\ReflectionProg.csproj",
+=======
+  "dgSpecHash": "R3sVS6my2NleWTzewuYdcZl0oeFmCXNFuwCDhBDhZR8Xk/S1p7shoesJT2t2LTMtkPfQznXrWRz2rF5YXEDZOQ==",
+  "success": true,
+  "projectFilePath": "D:\\VBProjects\\BasicProgram\\ReflectionProg\\ReflectionProg.csproj",
+>>>>>>> 288a2fe (VBProg[Prabhat]: C# basic programs)
   "expectedPackageFiles": [],
   "logs": []
 }

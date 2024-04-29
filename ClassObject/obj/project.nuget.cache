@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "aXloZgdg3F+v/lEjFKB33FJVU4EuDOYtvoPjTPpMljxdTOCuqnwh86RMXefdZi1c7oB3NG3VhOexZWOsnmjc3A==",
   "success": true,
   "projectFilePath": "C:\\Users\\Admin\\Desktop\\VBProjects\\BasicProgram\\ClassObject\\ClassObject.csproj",
+=======
+  "dgSpecHash": "vDNx+wQIBNKFddfuXOtD+2Q2//+CF27y064x53/maibdjbXKE6/Qai4pKHb3n+xYHXCZPqUlJ6qFz68WkR2lXQ==",
+  "success": true,
+  "projectFilePath": "D:\\VBProjects\\BasicProgram\\ClassObject\\ClassObject.csproj",
+>>>>>>> 288a2fe (VBProg[Prabhat]: C# basic programs)
   "expectedPackageFiles": [],
   "logs": []
 }

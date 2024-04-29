@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "NYKyi2he9+zOmbJRqUF37gYyXUSs6+i4QZnqU5tYaqGbEMBUpZzOqWHMsuDdFEtqua8V1JoMpb0bfF/DIlWf7w==",
   "success": true,
   "projectFilePath": "C:\\Users\\Admin\\Desktop\\VBProjects\\BasicProgram\\LambdaExpressions\\LambdaExpressions.csproj",
+=======
+  "dgSpecHash": "T6prO3RbnSyuy2mxopveRTEq5SmcyaKJYDAsVaxGjoMHxL9kNYebQAUl/W3UXkaAM+Mjqrz7ZOhVV6OMmMsJCQ==",
+  "success": true,
+  "projectFilePath": "D:\\VBProjects\\BasicProgram\\LambdaExpressions\\LambdaExpressions.csproj",
+>>>>>>> 288a2fe (VBProg[Prabhat]: C# basic programs)
   "expectedPackageFiles": [],
   "logs": []
 }

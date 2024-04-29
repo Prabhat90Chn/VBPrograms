@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "o2vCVPtUZ/gJq1clt1fJuyBScVqO0mf2tYvps7SQ+m80jS2TKHdz4VZ7sexM+ovp05paiIZbmCBjEyTyjsz95g==",
   "success": true,
   "projectFilePath": "C:\\Users\\Admin\\Desktop\\VBProjects\\BasicProgram\\ADOQueries\\ADOQueries.csproj",
+=======
+  "dgSpecHash": "fDwDZQUXKFE61k1DpfnAQLctsMBFN69cqCi3FgmBjw2us6XEonozBByPv2G8rExQITCu3WW+ehi2wCJxWxCaeA==",
+  "success": true,
+  "projectFilePath": "D:\\VBProjects\\BasicProgram\\ADOQueries\\ADOQueries.csproj",
+>>>>>>> 288a2fe (VBProg[Prabhat]: C# basic programs)
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

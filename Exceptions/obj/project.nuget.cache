@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "KgHMNcNGMhZR/M8FkuE8R4ZVuzoBCmRcgAfdHVB6KdXtiexINAzSsdU0xMY5TOoqMy7GlgrJ1CxmTW18dmNl0w==",
   "success": true,
   "projectFilePath": "C:\\Users\\Admin\\Desktop\\VBProjects\\BasicProgram\\Exceptions\\Exceptions.csproj",
+=======
+  "dgSpecHash": "ghez+ieECi9k1KQyQZLUJncsRRiytkTMc6GzK8Z3mG4o6Yr8C2kJd+6OHqWzP1Bb14SKh7jMzueM+pJbDyHFpw==",
+  "success": true,
+  "projectFilePath": "D:\\VBProjects\\BasicProgram\\Exceptions\\Exceptions.csproj",
+>>>>>>> 288a2fe (VBProg[Prabhat]: C# basic programs)
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "EHE+fQgdCs5tuGWaDihxZbK/2zj1w3mLKHrcucphFQ4lM1f6+vWmPxsJfLtt/EmkNMFi81XHsA3I3ozrE3cOuQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Admin\\Desktop\\VBProjects\\BasicProgram\\Collections\\Collections.csproj",
+=======
+  "dgSpecHash": "ea5bbBOMH8pfGoVp2CGPS54VZOohGsS4X2d7GyrqVCPnQNPctvAmz+qY/jqFzvhYBoZNoFUyLrgHOf91rhkiHw==",
+  "success": true,
+  "projectFilePath": "D:\\VBProjects\\BasicProgram\\Collections\\Collections.csproj",
+>>>>>>> 288a2fe (VBProg[Prabhat]: C# basic programs)
   "expectedPackageFiles": [],
   "logs": []
 }
